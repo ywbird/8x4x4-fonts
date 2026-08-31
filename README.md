@@ -44,7 +44,8 @@
 - [Pilgi](https://iolo.kr/8x4x4-fonts/?font=Pilgi_8x4x4) - 필기체 + ASCII serif
 - [Thin](https://iolo.kr/8x4x4-fonts/?font=Thin_8x4x4) - 가는체 + ASCII thin serif
 - [U4K](https://iolo.kr/8x4x4-fonts/?font=U4K_8x4x4) - Ultima4K
-- [U4K](https://iolo.kr/8x4x4-fonts/?font=AD24_8x4x4) - AD24
+- [SAN](https://iolo.kr/8x4x4-fonts/?font=San_8x4x4) - San from [@drypot's san editor](https://github.com/drypot/san-1.0)
+- [AD24](https://iolo.kr/8x4x4-fonts/?font=AD24_8x4x4) - AD24 from [@drypot's san editor](https://github.com/drypot/san-1.0)
 
 ## 참고
 
