@@ -114,7 +114,7 @@ def main():
                 'file_name': asc_font_file,
                 'glyph_width': 8,
                 'glyph_height': 16,
-                'glyph_count': 256,
+                'glyph_count': os.path.getsize(asc_font_file) // 16, # 256 or 128
                 'code_mapper': asc_code_mapper
             },
             {
