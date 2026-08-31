@@ -30,4 +30,5 @@ function buildFont {
 #buildFont "asc_serif.fnt" "han_pilgi.fnt" "Pilgi_8x4x4"
 #buildFont "asc_sans.fnt" "han_sam.fnt" "Sam_8x4x4"
 #buildFont "asc_thin.fnt" "han_thin.fnt" "Thin_8x4x4"
-buildFont "asc_u4k.fnt" "han_u4k.fnt" "U4K_8x4x4"
+#buildFont "asc_u4k.fnt" "han_u4k.fnt" "U4K_8x4x4"
+buildFont "asc_ad24.fnt" "han_ad24.fnt" "AD24_8x4x4"
